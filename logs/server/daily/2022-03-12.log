@@ -1,0 +1,73 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T03:49:04.604Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T03:49:04.672Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T03:51:46.907Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T03:51:46.945Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T05:43:54.493Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T05:43:54.533Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T05:45:21.668Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T05:45:21.705Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T05:49:38.509Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T05:49:38.547Z"}
+error: 
+    status - 500 
+    message - ReferenceError: req is not defined
+    at _callee4$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/notes.services.js:30:46)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.deleteNote (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/notes.services.js:28:24) 
+    url - /api/v1/notes/6229cf083e863a3700004a7f 
+    method - DELETE 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-12T05:49:50.777Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T05:51:17.002Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T05:51:17.034Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\mongoose\lib\error\mongooseError.js:7:1)
+    at new CastError (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\mongoose\lib\error\cast.js:31:7)
+    at model.Query.exec (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/6229cf083e863a3700004a7f 
+    method - DELETE 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-12T05:51:35.835Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T05:53:39.105Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T05:53:39.140Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T05:56:31.130Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T05:56:31.171Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T05:57:04.781Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T05:57:04.817Z"}
+error: 
+    status - 500 
+    message - Error: Cast to undefined failed for value undefined at path "undefined"
+    at new MongooseError (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\mongoose\lib\error\mongooseError.js:7:1)
+    at new CastError (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\mongoose\lib\error\cast.js:31:7)
+    at model.Query.exec (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/notes/6229cf083e863a3700004a7f 
+    method - DELETE 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-12T05:57:09.381Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T05:58:44.412Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T05:58:44.450Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T06:18:46.132Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T06:18:46.194Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T06:19:01.295Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T06:19:01.334Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T06:19:40.266Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T06:19:40.342Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T06:19:50.700Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T06:19:50.757Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T06:21:48.480Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T06:21:48.537Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-12T06:21:57.360Z"}
+info: Connected to the database. {"timestamp":"2022-03-12T06:21:57.414Z"}

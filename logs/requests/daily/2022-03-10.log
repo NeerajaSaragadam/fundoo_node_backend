@@ -1,0 +1,42 @@
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:06:18:17 +0000] "POST /api/v1/users/register HTTP/1.1" 500 61 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:06:20:43 +0000] "POST /api/v1/users/register HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:06:23:06 +0000] "POST /api/v1/users/register HTTP/1.1" 409 25 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:06:23:57 +0000] "POST /api/v1/users/register HTTP/1.1" 409 51 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:06:26:10 +0000] "POST /api/v1/users/login HTTP/1.1" 200 190 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:06:27:00 +0000] "POST /api/v1/users/login HTTP/1.1" 200 201 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:12:24 +0000] "POST /api/v1/notes HTTP/1.1" 201 283 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:16:08 +0000] "POST /api/v1/users/login HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:18:04 +0000] "POST /api/v1/users/login HTTP/1.1" 500 67 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:18:27 +0000] "POST /api/v1/users/login HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:18:55 +0000] "POST /api/v1/users/login HTTP/1.1" 200 201 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:21:25 +0000] "POST /api/v1/users/login HTTP/1.1" 200 230 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:26:21 +0000] "POST /api/v1/notes HTTP/1.1" 201 268 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:26:43 +0000] "POST /api/v1/notes HTTP/1.1" 201 268 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:27:43 +0000] "POST /api/v1/notes HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:28:04 +0000] "POST /api/v1/notes HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:28:11 +0000] "POST /api/v1/notes HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:29:03 +0000] "POST /api/v1/notes HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:29:55 +0000] "POST /api/v1/notes HTTP/1.1" 201 272 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:16:05:09 +0000] "GET /api/v1/notes HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:16:06:14 +0000] "GET /api/v1/notes HTTP/1.1" 200 65 "-" "Thunder Client (https://www.thunderclient.com)"
+

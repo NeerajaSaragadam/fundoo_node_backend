@@ -1,0 +1,136 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T04:29:13.626Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T04:29:13.705Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T04:37:08.750Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T04:37:08.784Z"}
+error: 
+    status - 500 
+    message - TypeError: NotesService.getNote is not a function
+    at _callee5$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\controllers\/note.controller.js:64:37)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at getNote (C:\Users\HP\Documents\Node-projects\fundoonote\src\controllers\/note.controller.js:62:21) 
+    url - /api/v1/notes/6229d24dc16fca50886df9de 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-14T04:42:08.774Z"}
+error: 
+    status - 500 
+    message - TypeError: NotesService.getNote is not a function
+    at _callee5$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\controllers\/note.controller.js:64:37)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at getNote (C:\Users\HP\Documents\Node-projects\fundoonote\src\controllers\/note.controller.js:62:21) 
+    url - /api/v1/notes/6229d24dc16fca50886df9de 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-14T04:43:31.654Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T04:47:56.974Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T04:47:57.011Z"}
+error: 
+    status - 500 
+    message - Error: not a valid password
+    at _callee2$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/user.service.js:34:13)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-14T06:18:11.485Z"}
+error: 
+    status - 500 
+    message - Error: not a valid password
+    at _callee2$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/user.service.js:34:13)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-14T06:18:30.732Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:19:23.481Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:19:23.528Z"}
+error: 
+    status - 500 
+    message - Error: not a valid password
+    at _callee2$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/user.service.js:34:13)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-14T06:19:51.872Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:21:08.304Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:21:08.359Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:23:36.487Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:23:36.530Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:24:46.336Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:24:46.397Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:25:20.779Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:25:20.826Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:26:33.922Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:26:33.971Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:28:33.158Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:28:33.231Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:29:25.598Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:29:25.657Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:29:44.900Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:29:44.945Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:30:46.735Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:30:46.787Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:31:17.820Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:31:17.888Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:34:33.620Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:34:33.692Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:35:37.676Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:35:37.717Z"}
+error: 
+    status - 500 
+    message - Error: Parameter "filter" to find() must be an object, got 622edda47c4e554ac8ed347f
+    at new MongooseError (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\mongoose\lib\error\mongooseError.js:7:1)
+    at new ObjectParameterError (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\mongoose\lib\error\objectParameter.js:20:5)
+    at model.Query.Query.find (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\mongoose\lib\query.js:2098:16)
+    at Function.find (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\mongoose\lib\model.js:2157:13)
+    at _callee$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/notes.services.js:10:28)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21) 
+    url - /api/v1/notes 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-14T06:35:45.456Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:36:19.224Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:36:19.268Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:37:32.868Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:37:32.905Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:40:34.487Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:40:34.530Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:40:44.316Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:40:44.381Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:41:43.941Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:41:43.989Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:42:06.540Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:42:06.579Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:43:38.281Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:43:38.329Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-14T06:43:44.754Z"}
+info: Connected to the database. {"timestamp":"2022-03-14T06:43:44.809Z"}

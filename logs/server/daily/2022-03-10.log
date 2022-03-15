@@ -1,0 +1,206 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T06:16:51.037Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T06:16:51.134Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: FundooNotes.users index: email_1 dup key: { email: "neeraja123@gmail.com" } 
+      url - /api/v1/users/register 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-03-10T06:18:17.931Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 11000
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\express\lib\response.js:267:15)
+    at appErrorHandler (C:\Users\HP\Documents\Node-projects\fundoonote\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\express\lib\router\index.js:321:13) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-10T06:18:17.960Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T06:20:21.796Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T06:20:21.898Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T06:20:37.903Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T06:20:37.954Z"}
+error: 
+    status - 500 
+    message - Error: user already exists
+    at _callee2$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/user.service.js:16:11)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-10T06:20:43.955Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T06:22:50.118Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T06:22:50.164Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T06:23:53.752Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T06:23:53.790Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T06:26:57.447Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T06:26:57.491Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T09:38:52.293Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T09:38:52.336Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T09:40:10.210Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T09:40:10.280Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T09:44:08.933Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T09:44:08.993Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T09:46:47.032Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T09:46:47.076Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T09:48:12.640Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T09:48:12.685Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T09:48:35.878Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T09:48:35.925Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T09:51:06.487Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T10:06:44.762Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T10:07:53.703Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T10:08:29.763Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T10:08:29.807Z"}
+error: 
+    status - 500 
+    message - Error: user does not exist
+    at _callee3$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/user.service.js:29:11)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-10T10:16:08.510Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\bcrypt\bcrypt.js:208:17)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee3$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/user.service.js:31:36)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-10T10:18:04.267Z"}
+error: 
+    status - 500 
+    message - Error: not a valid password
+    at _callee3$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/user.service.js:38:13)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-10T10:18:27.400Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T10:21:21.089Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T10:21:21.140Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T10:27:20.424Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T10:27:20.481Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt must be provided
+    at Object.verify (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\jsonwebtoken\verify.js:53:17)
+    at _callee$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-10T10:27:43.181Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt must be provided
+    at Object.verify (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\jsonwebtoken\verify.js:53:17)
+    at _callee$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-10T10:28:04.588Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt must be provided
+    at Object.verify (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\jsonwebtoken\verify.js:53:17)
+    at _callee$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-10T10:28:11.233Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T10:29:00.919Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T10:29:00.963Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt must be provided
+    at Object.verify (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\jsonwebtoken\verify.js:53:17)
+    at _callee$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\middlewares\/auth.middleware.js:22:32)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-10T10:29:03.349Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T10:29:49.421Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T10:29:49.468Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T16:04:58.322Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T16:04:58.362Z"}
+error: 
+    status - 500 
+    message - ReferenceError: body is not defined
+    at _callee$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/notes.services.js:8:43)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllNotes (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/notes.services.js:7:25) 
+    url - /api/v1/notes 
+    method - GET 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-10T16:05:09.711Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-10T16:06:07.461Z"}
+info: Connected to the database. {"timestamp":"2022-03-10T16:06:07.502Z"}

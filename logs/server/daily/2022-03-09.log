@@ -1,0 +1,28 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-09T03:21:13.692Z"}
+info: Connected to the database. {"timestamp":"2022-03-09T03:21:13.778Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: FundooNotes.users index: email_1 dup key: { email: "neeraja12@gmail.com" } 
+      url - /api/v1/users/register 
+      method - POST 
+      IP - ::ffff:127.0.0.1
+     {"timestamp":"2022-03-09T03:21:23.616Z"}
+error: 
+    status - 500 
+    message - RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 11000
+    at ServerResponse.writeHead (_http_server.js:259:11)
+    at ServerResponse.writeHead (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (_http_server.js:250:8)
+    at write_ (_http_outgoing.js:711:9)
+    at ServerResponse.end (_http_outgoing.js:825:5)
+    at ServerResponse.send (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\express\lib\response.js:221:10)
+    at ServerResponse.json (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\express\lib\response.js:267:15)
+    at appErrorHandler (C:\Users\HP\Documents\Node-projects\fundoonote\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\express\lib\router\index.js:321:13) 
+    url - /api/v1/users/register 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-09T03:21:23.649Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-09T05:23:58.233Z"}
+info: Connected to the database. {"timestamp":"2022-03-09T05:23:58.275Z"}

@@ -1,0 +1,228 @@
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:09:09 +0000] "POST /api/v1/users/register HTTP/1.1" 201 275 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:29:10 +0000] "POST /api/v1/users/login HTTP/1.1" 500 57 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:32:14 +0000] "POST /api/v1/users/login HTTP/1.1" 200 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:32:24 +0000] "POST /api/v1/users/login HTTP/1.1" 200 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:32:34 +0000] "POST /api/v1/users/login HTTP/1.1" 200 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:32:39 +0000] "POST /api/v1/users/login HTTP/1.1" 200 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:32:51 +0000] "POST /api/v1/users/login HTTP/1.1" 200 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:37:29 +0000] "POST /api/v1/users/login HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:45:05 +0000] "POST /api/v1/users/login HTTP/1.1" 200 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:45:08 +0000] "POST /api/v1/users/login HTTP/1.1" 200 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:45:14 +0000] "POST /api/v1/users/login HTTP/1.1" 200 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:45:23 +0000] "POST /api/v1/users/login HTTP/1.1" 200 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:46:07 +0000] "POST /api/v1/users/login HTTP/1.1" 200 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:47:05 +0000] "POST /api/v1/users/login HTTP/1.1" 200 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:48:02 +0000] "POST /api/v1/users/login HTTP/1.1" 200 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:50:01 +0000] "POST /api/v1/users/login HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:50:19 +0000] "POST /api/v1/users/login HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:51:55 +0000] "POST /api/v1/users/login HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:54:37 +0000] "POST /api/v1/users/login HTTP/1.1" 200 31 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [08/Mar/2022:04:54:46 +0000] "POST /api/v1/users/login HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Mar/2022:03:21:23 +0000] "POST /api/v1/users/register HTTP/1.1" 500 61 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Mar/2022:05:24:04 +0000] "POST /api/v1/users/register HTTP/1.1" 201 328 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [09/Mar/2022:05:25:07 +0000] "POST /api/v1/users/login HTTP/1.1" 200 190 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:06:18:17 +0000] "POST /api/v1/users/register HTTP/1.1" 500 61 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:06:20:43 +0000] "POST /api/v1/users/register HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:06:23:06 +0000] "POST /api/v1/users/register HTTP/1.1" 409 25 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:06:23:57 +0000] "POST /api/v1/users/register HTTP/1.1" 409 51 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:06:26:10 +0000] "POST /api/v1/users/login HTTP/1.1" 200 190 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:06:27:00 +0000] "POST /api/v1/users/login HTTP/1.1" 200 201 "-" "Thunder Client (https://www.thunderclient.com)"
+
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\express\lib\router\index.js:464:13)
+    at routes (C:\Users\HP\Documents\Node-projects\fundoonote\src\routes\/index.js:16:10)
+    at Object.<anonymous> (C:\Users\HP\Documents\Node-projects\fundoonote\src\/index.js:32:32)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module._compile (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Object.newLoader [as .js] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32) {"date":"Thu Mar 10 2022 15:21:06 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1716660},"process":{"argv":["node","C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\index.js"],"cwd":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18384233,"external":20619988,"heapTotal":82124800,"heapUsed":41669288,"rss":114769920},"pid":11212,"uid":null,"version":"v14.17.5"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\express\\lib\\router\\index.js:464:13)\n    at routes (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\routes\\/index.js:16:10)\n    at Object.<anonymous> (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\/index.js:32:32)\n    at Module._compile (internal/modules/cjs/loader.js:1072:14)\n    at Module._compile (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)\n    at Object.newLoader [as .js] (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (internal/modules/cjs/loader.js:937:32)","trace":[{"column":13,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":464,"method":"use","native":false},{"column":10,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\routes\\/index.js","function":"routes","line":16,"method":null,"native":false},{"column":32,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1072,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1101,"method":".js","native":false},{"column":7,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":937,"method":"load","native":false}]}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\express\lib\router\index.js:464:13)
+    at routes (C:\Users\HP\Documents\Node-projects\fundoonote\src\routes\/index.js:16:10)
+    at Object.<anonymous> (C:\Users\HP\Documents\Node-projects\fundoonote\src\/index.js:32:32)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module._compile (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Object.newLoader [as .js] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32) {"date":"Thu Mar 10 2022 15:36:44 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1717598},"process":{"argv":["node","C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\index.js"],"cwd":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18365276,"external":20601031,"heapTotal":81862656,"heapUsed":39807512,"rss":114343936},"pid":11900,"uid":null,"version":"v14.17.5"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\express\\lib\\router\\index.js:464:13)\n    at routes (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\routes\\/index.js:16:10)\n    at Object.<anonymous> (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\/index.js:32:32)\n    at Module._compile (internal/modules/cjs/loader.js:1072:14)\n    at Module._compile (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)\n    at Object.newLoader [as .js] (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (internal/modules/cjs/loader.js:937:32)","trace":[{"column":13,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":464,"method":"use","native":false},{"column":10,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\routes\\/index.js","function":"routes","line":16,"method":null,"native":false},{"column":32,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1072,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1101,"method":".js","native":false},{"column":7,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":937,"method":"load","native":false}]}
+error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\express\lib\router\index.js:464:13)
+    at routes (C:\Users\HP\Documents\Node-projects\fundoonote\src\routes\/index.js:16:10)
+    at Object.<anonymous> (C:\Users\HP\Documents\Node-projects\fundoonote\src\/index.js:32:32)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Module._compile (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Object.newLoader [as .js] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (internal/modules/cjs/loader.js:937:32) {"date":"Thu Mar 10 2022 15:37:53 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1717667},"process":{"argv":["node","C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\index.js"],"cwd":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18346152,"external":20590099,"heapTotal":83435520,"heapUsed":39175264,"rss":115142656},"pid":6712,"uid":null,"version":"v14.17.5"},"stack":"TypeError: Router.use() requires a middleware function but got a Object\n    at Function.use (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\express\\lib\\router\\index.js:464:13)\n    at routes (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\routes\\/index.js:16:10)\n    at Object.<anonymous> (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\/index.js:32:32)\n    at Module._compile (internal/modules/cjs/loader.js:1072:14)\n    at Module._compile (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (internal/modules/cjs/loader.js:1101:10)\n    at Object.newLoader [as .js] (C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (internal/modules/cjs/loader.js:937:32)","trace":[{"column":13,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\express\\lib\\router\\index.js","function":"Function.use","line":464,"method":"use","native":false},{"column":10,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\routes\\/index.js","function":"routes","line":16,"method":null,"native":false},{"column":32,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"internal/modules/cjs/loader.js","function":"Module._compile","line":1072,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"internal/modules/cjs/loader.js","function":"Module._extensions..js","line":1101,"method":".js","native":false},{"column":7,"file":"C:\\Users\\HP\\Documents\\Node-projects\\fundoonote\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"internal/modules/cjs/loader.js","function":"Module.load","line":937,"method":"load","native":false}]}
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:12:24 +0000] "POST /api/v1/notes HTTP/1.1" 201 283 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:16:08 +0000] "POST /api/v1/users/login HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:18:04 +0000] "POST /api/v1/users/login HTTP/1.1" 500 67 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:18:27 +0000] "POST /api/v1/users/login HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:18:55 +0000] "POST /api/v1/users/login HTTP/1.1" 200 201 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:21:25 +0000] "POST /api/v1/users/login HTTP/1.1" 200 230 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:26:21 +0000] "POST /api/v1/notes HTTP/1.1" 201 268 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:26:43 +0000] "POST /api/v1/notes HTTP/1.1" 201 268 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:27:43 +0000] "POST /api/v1/notes HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:28:04 +0000] "POST /api/v1/notes HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:28:11 +0000] "POST /api/v1/notes HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:29:03 +0000] "POST /api/v1/notes HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:10:29:55 +0000] "POST /api/v1/notes HTTP/1.1" 201 272 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:16:05:09 +0000] "GET /api/v1/notes HTTP/1.1" 500 54 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [10/Mar/2022:16:06:14 +0000] "GET /api/v1/notes HTTP/1.1" 200 65 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [11/Mar/2022:06:49:11 +0000] "POST /api/v1/notes HTTP/1.1" 201 283 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [11/Mar/2022:06:49:37 +0000] "GET /api/v1/notes HTTP/1.1" 200 65 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [11/Mar/2022:06:51:32 +0000] "GET /api/v1/notes HTTP/1.1" 200 1143 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:34:48 +0000] "GET /api/v1/notes HTTP/1.1" 200 1143 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:35:47 +0000] "DELETE /api/v1/6229cf083e863a3700004a7f HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:36:20 +0000] "DELETE /api/v1/notes/6229cf083e863a3700004a7f HTTP/1.1" 200 50 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:36:44 +0000] "PUT /api/v1/notes/6229cf083e863a3700004a7f HTTP/1.1" 200 62 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:37:10 +0000] "GET /api/v1/notes HTTP/1.1" 200 1143 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:38:25 +0000] "DELETE /api/v1/notes/6229cf083e863a3700004a7f HTTP/1.1" 200 50 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:38:40 +0000] "GET /api/v1/notes HTTP/1.1" 200 1143 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:44:08 +0000] "GET /api/v1/notes/6229cf083e863a3700004a7f HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:44:18 +0000] "DELETE /api/v1/notes/6229cf083e863a3700004a7f HTTP/1.1" 200 50 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:45:28 +0000] "DELETE /api/v1/notes/6229cf083e863a3700004a7f HTTP/1.1" 200 50 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:49:50 +0000] "DELETE /api/v1/notes/6229cf083e863a3700004a7f HTTP/1.1" 500 53 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:51:35 +0000] "DELETE /api/v1/notes/6229cf083e863a3700004a7f HTTP/1.1" 500 18861 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:53:44 +0000] "DELETE /api/v1/notes/6229cf083e863a3700004a7f HTTP/1.1" 200 50 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:57:09 +0000] "DELETE /api/v1/notes/6229cf083e863a3700004a7f HTTP/1.1" 500 18858 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:05:58:10 +0000] "DELETE /api/v1/notes?_id=6229cf083e863a3700004a7f HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:06:20:09 +0000] "DELETE /api/v1/notes?_id=6229cf083e863a3700004a7f HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:06:20:21 +0000] "DELETE /api/v1/notes/6229cf083e863a3700004a7f HTTP/1.1" 200 50 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [12/Mar/2022:06:20:36 +0000] "GET /api/v1/notes HTTP/1.1" 200 919 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:04:29:50 +0000] "GET /api/v1/notes HTTP/1.1" 200 919 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:04:30:51 +0000] "PUT /api/v1/notes/6229d24dc16fca50886df9de HTTP/1.1" 202 272 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:04:31:13 +0000] "GET /api/v1/notes HTTP/1.1" 200 925 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:04:42:08 +0000] "GET /api/v1/notes/6229d24dc16fca50886df9de HTTP/1.1" 500 73 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:04:43:31 +0000] "GET /api/v1/notes/6229d24dc16fca50886df9de HTTP/1.1" 500 73 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:04:48:09 +0000] "GET /api/v1/notes/6229d24dc16fca50886df9de HTTP/1.1" 200 273 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:01:22 +0000] "POST /api/v1/notes HTTP/1.1" 201 218 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:15:51 +0000] "POST /api/v1/users HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:16:04 +0000] "POST /api/v1/users/register HTTP/1.1" 201 320 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:16:21 +0000] "POST /api/v1/users/login HTTP/1.1" 200 230 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:17:19 +0000] "GET /api/v1/note HTTP/1.1" 404 47 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:17:27 +0000] "GET /api/v1/notes HTTP/1.1" 200 1084 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:18:11 +0000] "POST /api/v1/users/login HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:18:30 +0000] "POST /api/v1/users/login HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:19:51 +0000] "POST /api/v1/users/login HTTP/1.1" 500 55 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:20:05 +0000] "GET /api/v1/notes HTTP/1.1" 200 1084 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:21:12 +0000] "GET /api/v1/notes HTTP/1.1" 200 1084 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:23:52 +0000] "GET /api/v1/notes HTTP/1.1" 200 1084 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:24:52 +0000] "GET /api/v1/notes HTTP/1.1" 200 1084 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:25:24 +0000] "GET /api/v1/notes HTTP/1.1" 200 1084 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:25:59 +0000] "GET /api/v1/notes HTTP/1.1" 200 1084 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:32:04 +0000] "POST /api/v1/notes HTTP/1.1" 201 260 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:33:06 +0000] "GET /api/v1/notes HTTP/1.1" 200 1285 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:33:41 +0000] "GET /api/v1/notes HTTP/1.1" 200 1285 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:34:38 +0000] "GET /api/v1/notes HTTP/1.1" 200 1285 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:35:45 +0000] "GET /api/v1/notes HTTP/1.1" 500 113 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:36:23 +0000] "GET /api/v1/notes HTTP/1.1" 200 65 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:37:35 +0000] "GET /api/v1/notes HTTP/1.1" 200 65 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:38:24 +0000] "POST /api/v1/notes HTTP/1.1" 201 258 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:38:50 +0000] "GET /api/v1/notes HTTP/1.1" 200 65 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:40:48 +0000] "GET /api/v1/notes HTTP/1.1" 200 65 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:41:48 +0000] "GET /api/v1/notes HTTP/1.1" 200 65 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:42:11 +0000] "GET /api/v1/notes HTTP/1.1" 200 65 "-" "Thunder Client (https://www.thunderclient.com)"
+
+info: ::ffff:127.0.0.1 - - [14/Mar/2022:06:43:47 +0000] "GET /api/v1/notes HTTP/1.1" 200 464 "-" "Thunder Client (https://www.thunderclient.com)"
+

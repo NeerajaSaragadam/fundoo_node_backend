@@ -1,0 +1,114 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:07:25.033Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:07:25.146Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:17:23.382Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:17:23.447Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:28:09.194Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:28:09.275Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:28:28.536Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:28:28.608Z"}
+error: 
+    status - 500 
+    message - ReferenceError: compare is not defined
+    at _callee3$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/user.service.js:16:22)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-08T04:29:10.556Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:31:20.066Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:31:20.137Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:31:55.790Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:31:55.859Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:37:15.118Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:37:15.187Z"}
+error: 
+    status - 500 
+    message - ReferenceError: find is not defined
+    at _callee3$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/user.service.js:21:11)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-08T04:37:29.913Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:44:53.951Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:44:54.035Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:45:55.082Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:45:55.157Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:46:50.573Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:46:50.643Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:47:52.630Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:47:52.707Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:49:57.232Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:49:57.301Z"}
+error: 
+    status - 500 
+    message - Error: not a valid password
+    at _callee3$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/user.service.js:26:13)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-08T04:50:01.716Z"}
+error: 
+    status - 500 
+    message - ReferenceError: email is not defined
+    at _callee3$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/user.service.js:24:14)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-08T04:50:19.467Z"}
+error: 
+    status - 500 
+    message - ReferenceError: email is not defined
+    at _callee3$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/user.service.js:24:14)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-08T04:51:55.449Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:54:28.844Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:54:28.916Z"}
+error: 
+    status - 500 
+    message - Error: not a valid password
+    at _callee3$ (C:\Users\HP\Documents\Node-projects\fundoonote\src\services\/user.service.js:26:13)
+    at tryCatch (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:63:40)
+    at Generator.invoke [as _invoke] (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:294:22)
+    at Generator.next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\regenerator-runtime\runtime.js:119:21)
+    at asyncGeneratorStep (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\HP\Documents\Node-projects\fundoonote\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-03-08T04:54:46.083Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T04:55:32.480Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T04:55:32.553Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-03-08T06:06:07.050Z"}
+info: Connected to the database. {"timestamp":"2022-03-08T06:06:07.144Z"}
